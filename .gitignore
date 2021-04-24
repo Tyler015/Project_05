@@ -1,0 +1,6 @@
+*
+!input*.txt
+!*.cpp
+!*.hpp
+!README.md
+!Makefile
